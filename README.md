@@ -1,0 +1,3 @@
+# SpeenerCustomAdapter
+spinner
+list sleter
